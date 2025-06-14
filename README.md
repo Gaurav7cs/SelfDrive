@@ -2,7 +2,6 @@
 
 SelfDrive is a responsive and interactive front-end web application designed to simulate an online self-driving car interface. Built using HTML, CSS, and JavaScript
 
-![SelfDrive Preview](screenshot.png)
 
 ## 🛠️ Features
 
