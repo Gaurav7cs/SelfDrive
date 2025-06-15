@@ -1,0 +1,12 @@
+label{
+    display: grid;
+    width: 40%;
+}
+button{
+    border-radius: 0.2rem;
+    background: #3f3ff0;
+    color: #fff;
+}
+button:hover{
+    background: #fb4500;
+}
